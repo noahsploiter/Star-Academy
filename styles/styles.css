@@ -1,0 +1,23 @@
+body > div:first-child {
+  overflow-x: hidden;
+}
+
+.bg{
+  background-color: #ff6f00;
+}
+
+.img{
+  margin-left: 40px;
+  border-radius: 30px;
+  width: 400px;
+
+}
+
+.main-con{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.con{
+  margin-top: 5px;
+}
